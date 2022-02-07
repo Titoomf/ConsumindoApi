@@ -1,4 +1,4 @@
-#Consumindo Api Rest com injeção de dependencia , flutter modular , mvc ,protocolo Http, servicos de externo com o DIO,HTTP
+#Consumindo Api Rest com injeção de dependencia , flutter modular , mvc ,protocolo Http, servicos de externo com o DIO,HTTP#
 
 <p>dentro da pasta lib havera os aquivos .dart que estarao com uma breve descriçao como um comentarios,
 esses comentarios que eu fiz seria minha anotação de estudo a forma que eu achei para estudar.esse projeto é um todo list de como consumir o servico Request e response
